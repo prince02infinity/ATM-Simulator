@@ -30,8 +30,8 @@ This project is developed as a beginner-level academic project for understanding
 | Application Domain      | Banking Simulation          |
 | Main File               | `main.py`                   |
 | Documentation File      | `README.md`                 |
-| Initial Account Balance | Rs. 5000                    |
-| Default PIN             | 1234                        |
+| Initial Account Balance | Rs. 88500                    |
+| Default PIN             | 1185                       |
 | Data Storage            | Temporary in-memory storage |
 
 ---
