@@ -279,7 +279,7 @@ The program was tested using different inputs to check whether the operations wo
 
 | Test Case                 | Input                       | Expected Result                |
 | ------------------------- | --------------------------- | ------------------------------ |
-| Correct PIN               | 1234                        | Login successful               |
+| Correct PIN               | 1185                        | Login successful               |
 | Incorrect PIN             | 0000                        | Incorrect PIN message          |
 | Three incorrect attempts  | Three wrong PIN entries     | Account temporarily locked     |
 | Balance enquiry           | Select option 1             | Displays current balance       |
